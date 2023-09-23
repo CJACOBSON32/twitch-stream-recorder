@@ -74,3 +74,12 @@ fabric.properties
 .idea
 venv
 config.py
+
+# Log finles
+*.log
+
+# Cache
+__pycache__/
+
+# output
+output/**

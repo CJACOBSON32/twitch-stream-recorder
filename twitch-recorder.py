@@ -26,7 +26,7 @@ class TwitchRecorder:
         # global configuration
         self.ffmpeg_path = "ffmpeg"
         self.disable_ffmpeg = False
-        self.refresh = 15
+        self.refresh = 15*60
         self.root_path = config.root_path
 
         # user configuration
